@@ -181,9 +181,6 @@ Ajuste o parâmetro N_PARTITIONS no extract.py ou aumente recursos do container.
 Créditos
 Gabriel Marchi Ziviani
 
-
-
-
 ---
 
 Se quiser, posso adaptar ainda mais para o padrão de README da sua empresa, incluir GIFs/screenshots, instruções para rodar no cloud, etc.  
