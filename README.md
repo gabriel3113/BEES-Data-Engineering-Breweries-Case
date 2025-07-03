@@ -179,14 +179,10 @@ Problemas ao rodar Spark com datasets grandes:
 Ajuste o parâmetro N_PARTITIONS no extract.py ou aumente recursos do container.
 
 Créditos
-Desenvolvido por Seu Nome
-Inspirado no modelo Medallion do Databricks e boas práticas de Engenharia de Dados.
+Gabriel Marchi Ziviani
 
-Pull requests e sugestões são bem-vindas!
 
-yaml
-Copiar
-Editar
+
 
 ---
 
